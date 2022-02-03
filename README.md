@@ -8,6 +8,8 @@ My name is Tobias Botell, and I am a Full-Stack Developer with a passion for Blo
 
 I am currently working on developing an NFT collection and community, and launching it on the Ethereum Blockchain. 
 
+Outside of programming, I love the outdoors 🌳🦌, doing amazing camping expeditions to see all the beauty our world has to offer 🏕🌎, and playing the drums 🥁.
+
 You can reach me on my [LinkedIn](https://www.linkedin.com/in/tobiasbotell/)
 
 
