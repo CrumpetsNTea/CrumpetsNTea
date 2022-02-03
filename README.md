@@ -24,10 +24,10 @@ You can reach me on my [LinkedIn](https://www.linkedin.com/in/tobiasbotell/)
 !["ExpressJS"](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### Github Stats:
-!["Github Stats"](https://github-readme-stats.vercel.app/api?username={CrumpetsNTea})
+!["Github Stats"](https://github-readme-stats.vercel.app/api?username=CrumpetsNTea)
 
 ### My Most Used Languages:
-!["Most Used Languages"](https://github-readme-stats.vercel.app/api/top-langs/?username={CrumpetsNTea})
+!["Most Used Languages"](https://github-readme-stats.vercel.app/api/top-langs/?username=CrumpetsNTea)
 
 
 
