@@ -29,7 +29,4 @@ You can reach me on my [LinkedIn](https://www.linkedin.com/in/tobiasbotell/)
 ### My Most Used Languages:
 !["Most Used Languages"](https://github-readme-stats.vercel.app/api/top-langs/?username=CrumpetsNTea)
 
-### Badges of Honour
-!["Badges"](https://github-profile-trophy.vercel.app/?username=CrumpetsNTea)
-
 
