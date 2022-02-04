@@ -3,13 +3,13 @@
 
 
 
-### Hi there 👋
+# Hi there 👋
 
 My name is Tobias Botell, and I am a Full-Stack Developer with a passion for Blockchain Technology and Crypto. Having recently graduated from Lighthouse Labs Full Stack Development Bootcamp, I am looking to hone my skills and gain experience in Full Stack Development and building Dapps using Solidity and Rust. 
 
 I am currently working on developing an NFT collection and community, and launching it on the Ethereum Blockchain. 
 
-Outside of programming, I love the outdoors 🌳🦌, doing amazing camping expeditions to see all the beauty our world has to offer 🏕🌎, and playing the drums 🥁.
+Outside of programming, I love the outdoors 🌳�, going on camping expeditions to see all the beauty our world has to offer 🏕, and playing the drums.
 
 You can reach me on my [LinkedIn](https://www.linkedin.com/in/tobiasbotell/)
 
